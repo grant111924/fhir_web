@@ -1,0 +1,81 @@
+body{
+  font-family: 'Times New Roman', Times, serif !important;
+}
+h1, h2, h3, h4, h5, p {
+  /* font-family: helvetica; */
+  color: #3e3e3e;
+}
+.bg-7C9DBD{
+  background-color: #7C9DBD;
+}
+.bg-E3D0A4{
+  background-color: #E3D0A4;
+}
+.bg-D97A8B{
+  background-color: #D97A8B;
+}
+.bg-DA6C37{
+  background-color: #DA6C37;
+}
+.bg-E69255{
+  background-color: #E69255;
+}
+.bg-C8B98E{
+  background-color: #C8B98E;
+}
+.bg-D6A6AB{
+  background-color: #D6A6AB;
+}
+.bg-749DB6{
+  background-color: #749DB6;
+}
+
+.text-7C9DBD{
+  color: #7C9DBD;
+}
+.text-E3D0A4{
+  color: #E3D0A4;
+}
+.text-D97A8B{
+  color: #D97A8B;
+}
+.text-DA6C37{
+  color: #DA6C37;
+}
+.text-E69255{
+  color: #E69255;
+}
+.text-C8B98E{
+  color: #C8B98E;
+}
+.text-D6A6AB{
+  color: #D6A6AB;
+}
+.text-749DB6{
+  color: #749DB6;
+}
+.font-16-size{
+  font-size: 16px !important;
+}
+.font-20-size{
+  font-size: 20px !important;
+}
+.font-24-size{
+  font-size: 24px !important;
+}
+.font-28-size{
+  font-size: 28px  !important;
+}
+.font-32-size{
+  font-size: 32px !important;
+}
+.font-36-size{
+  font-size: 36px  !important;
+}
+.font-40-size{
+  font-size: 40px  !important;
+}
+
+.card-columns {
+  column-count: 3;
+}
